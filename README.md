@@ -33,4 +33,4 @@ Initialization is not required for using methods in ndexr_numdata
 ```
 from ndexr_numdata import calculate
 calculate.calculate_cube(3)
-```# python_package_template
+```
